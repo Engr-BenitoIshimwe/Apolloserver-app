@@ -1,1 +1,1 @@
-## ApolloServer Application
+## Apollo Server Application
